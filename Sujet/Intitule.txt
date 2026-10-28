@@ -1,0 +1,34 @@
+Titre:
+Développement d’une application de gestion des commandes et des stocks pour un restaurant
+
+
+
+
+Contexte:
+Un restaurateur doit gérer quotidiennement plusieurs aspects de son activité, notamment le suivi des stocks et la gestion des commandes. Ces tâches sont essentielles au bon fonctionnement de son établissement et nécessitent une organisation rigoureuse.
+
+Le problème : la gestion des stocks et des commandes peut rapidement devenir complexe lorsqu’elle repose sur des méthodes manuelles ou des outils dispersés. Le restaurateur peut avoir des difficultés à connaître précisément les quantités de produits disponibles, à anticiper les ruptures de stock ou encore à assurer un suivi efficace de ses commandes. Ces difficultés peuvent entraîner des pertes de temps, des erreurs de gestion et du gaspillage alimentaire.
+Développement d’une application de gestion des commandes et des stocks pour un restaurant
+Le projet consiste à concevoir et développer, de zéro, une application destinée exclusivement au restaurateur, afin de faciliter la gestion quotidienne de son établissement. Cette application constituera un outil de travail lui permettant de centraliser la prise de commandes, le suivi des stocks et la gestion des clients. Elle ne sera pas accessible aux clients du restaurant : toutes les opérations seront réalisées directement par le restaurateur depuis son téléphone ou sa tablette.
+
+
+
+
+Description:
+Pour cela, les fonctionnalités suivantes devront être mises en place :
+
+Gestion des commandes : permettre au restaurateur de saisir manuellement les commandes qu’il reçoit de ses clients, en renseignant les plats commandés, l’heure souhaitée, les éventuelles allergies ainsi que toute autre information utile. Il pourra également consulter et modifier les commandes enregistrées.
+
+Gestion des stocks : permettre au restaurateur d’enregistrer les produits reçus et de suivre les quantités disponibles afin de mieux gérer les approvisionnements.
+
+Personnalisation du menu : permettre au restaurateur de configurer et de modifier les plats proposés par son établissement directement depuis l’application.
+
+Adaptation aux appareils mobiles : concevoir une interface ergonomique et responsive, utilisable sur téléphone et tablette, adaptée aux contraintes de son activité.
+
+Simplicité d’utilisation : privilégier une interface intuitive permettant au restaurateur d’effectuer rapidement les opérations courantes, y compris pendant les périodes de forte activité.
+
+Suivi des commandes en cours : permettre au restaurateur de consulter les commandes à venir ou en cours de traitement et d’en modifier les informations si nécessaire.
+
+Historique des commandes : proposer un récapitulatif des commandes enregistrées pour une journée donnée, afin de faciliter le suivi de l’activité du restaurant.
+Gestion des clients : permettre au restaurateur d’enregistrer et de consulter les informations utiles concernant ses clients afin de faciliter leur identification et le suivi de leurs commandes.
+(Une discussion entre le restaurateur et les membres du projet auras lieu afin de mettre en place un projet adapté à l'approche agile AGILE/SCRUM pour les SDL/IHM) 
